@@ -1,4 +1,4 @@
-from PyQt6.QtWidgets import QMainWindow, QVBoxLayout, QWidget, QPushButton
+from PyQt6.QtWidgets import QMainWindow, QVBoxLayout, QWidget, QPushButton, QLabel
 from PyQt6.QtGui import QFont
 
 from Binarie_Tree_View import MainWindowAB
@@ -17,6 +17,7 @@ class MainWindow(QMainWindow):
 
         layout = QVBoxLayout()
         layout.setSpacing(10)
+
 
         # Nombre de los botones
         # button_names = ["Arboles binarios",
