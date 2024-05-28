@@ -1,0 +1,11 @@
+Dennys Rolando Yosimar Carreto Aguilon
+
+
+Enlace del Repositorio:
+https://github.com/DennysCarreto/FinalED24
+
+Funcionamiento
+1 Elegir el boton Arboles de Busqueda
+2 Insertar id, nombre y darle al boton insertar
+3 Para buscar y Eliminar, ingresa el id y apartir del id se elimina o hace la busqueda
+4 Si se guarda el arbol, al darle el boton guardar usted elige donde guardar 
